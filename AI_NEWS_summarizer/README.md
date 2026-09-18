@@ -1,9 +1,5 @@
 # 🤖 AI-Powered News Automation
 
-<p align="center">
-  <img src="screenshots/workflow.png" alt="AI News Automation Workflow" width="1000">
-</p>
-
 <h3 align="center">
   Automated AI & Technology News Digest using n8n + OpenAI
 </h3>
